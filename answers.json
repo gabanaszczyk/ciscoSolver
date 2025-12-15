@@ -1,0 +1,18 @@
+[
+  {
+    "question": "Which access method would be most appropriate if you were in the equipment room with a new switch that needs to be configured?",
+    "answer": "Console"
+  },
+  {
+    "question": "Which access method would be most appropriate if your manager gave you a special cable and told you to use it to configure the switch?",
+    "answer": "Console"
+  },
+  {
+    "question": "Which access method would be the most appropriate in-band access to the IOS over a network connection?",
+    "answer": "Telnet/SSH"
+  },
+  {
+    "question": "Which access method would be the most appropriate if you call your manager to tell him you cannot access your router in another city over the internet and he provides you with the information to access the router through a telephone connection?",
+    "answer": "Aux"
+  }
+]
